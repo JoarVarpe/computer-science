@@ -275,7 +275,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[Databases: Modeling and Theory](https://www.edx.org/learn/databases/stanford-university-databases-modeling-and-theory)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/pMFqNf4)
+[Databases: Modeling and Theory](https://www.edx.org/learn/databases/stanford-university-databases-modeling-and-theory) ✅| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/pMFqNf4)
 [Databases: Relational Databases and SQL](https://www.edx.org/learn/relational-databases/stanford-university-databases-relational-databases-and-sql)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/P8SPPyF)
 [Databases: Semistructured Data](https://www.edx.org/learn/relational-databases/stanford-university-databases-semistructured-data)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/duCJ3GN)
 [Machine Learning](https://www.deeplearning.ai/courses/machine-learning-specialization/)| 11 weeks | 9 hours/week | Basic coding | [chat](https://discord.gg/NcXHDjy)
